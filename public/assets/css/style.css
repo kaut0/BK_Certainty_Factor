@@ -1,0 +1,11 @@
+.center{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+.tengah{
+    position: absolute;
+    margin-right: 25%;
+    margin-top: 20%;
+}
